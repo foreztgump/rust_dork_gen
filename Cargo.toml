@@ -1,0 +1,12 @@
+[package]
+name = "dork_gen_2"
+version = "0.1.0"
+authors = ["ForeztGump - TB"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.3"
+rayon = "1.5"
+indicatif = "0.16.1"
